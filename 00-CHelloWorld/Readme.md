@@ -6,7 +6,7 @@
 
 ## Resolución
 Se utilizó VSCode para escribir el código, y la terminal dentro del mismo en donde se escribieron los siguientes comandos:
-```
+```bash
 gcc hello.c
 ./a
 ```
