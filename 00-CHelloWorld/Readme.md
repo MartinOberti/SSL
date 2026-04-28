@@ -5,4 +5,9 @@
 * **Versión de C**: C23
 
 ## Resolución
-Se utilizó VSCode para escribir el código, y la terminal dentro del mismo para compilar el programa, devolviendo un ejecutable.
+Se utilizó VSCode para escribir el código, y la terminal dentro del mismo en donde se escribieron los siguientes comandos:
+```
+gcc hello.c
+./a
+```
+El primer comando compila el código en `hello.c` y genera un ejecutable, el cual es ejecutado por el segundo comando.
