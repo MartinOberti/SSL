@@ -10,4 +10,4 @@ Se utilizó VSCode para escribir el código, y la terminal dentro del mismo en d
 gcc hello.c
 ./a
 ```
-El primer comando compila el código en `hello.c` y genera un ejecutable, el cual es ejecutado por el segundo comando.
+El primer comando compila el código en `hello.c` y genera un ejecutable nombrado `a.exe`, el cual es ejecutado por el segundo comando.
